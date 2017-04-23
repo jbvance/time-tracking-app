@@ -1,0 +1,5 @@
+reports/
+tests_output/
+node_modules/
+.jshintrc
+npm-debug.log.*
