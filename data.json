@@ -2,7 +2,7 @@
     {
         "title": "Mow the lawn",
         "project": "House Chores",
-        "elapsed": 5457586,
+        "elapsed": 5465467,
         "id": "0a4a79cb-b06d-4cb1-883d-549a1e3b66d7",
         "runningSince": null
     },
@@ -22,16 +22,9 @@
     },
     {
         "title": "Guitar Practice",
-        "project": "Parker Practice Guitar",
+        "project": "Parker Practice Guitar 30 minutes",
         "id": "4a6a3c22-f709-4c94-9ce6-af6c992e49bf",
         "elapsed": 10435,
-        "runningSince": null
-    },
-    {
-        "title": "Timer",
-        "project": "Project",
-        "id": "ce983b10-c519-446c-be6b-e792f2aa2ea7",
-        "elapsed": 0,
         "runningSince": null
     }
 ]
